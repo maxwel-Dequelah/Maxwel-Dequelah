@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Maxwel Omondi Okinyo</h1>
-<h3 align="center">A Fullstack Developer</h3>
+<h1 align="center">Maxwel Omondi Okinyo</h1>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxwel-dequelah" alt="maxwel-dequelah" /></a> </p>
-
-- 🔭 I’m currently working on **ICTA_Commercialization**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
